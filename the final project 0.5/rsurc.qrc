@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>settings-5850.png</file>
+    <file>icons8-about-100.png</file>
+    <file>inconu.jpg</file>
+  </qresource>
+</RCC>
