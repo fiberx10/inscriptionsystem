@@ -686,9 +686,10 @@ class admis_Screen(QDialog, FORM_CLASS, getAllMatch):
 
 
     def getanne(self):
+        pass
 
     
-        self.annee.setText(welcome.aNee[0:4]+"-"+welcome.aNee[5:])
+     
 
 
 
